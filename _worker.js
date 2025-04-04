@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "napirgasukaloli.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "lavia"; // Ganti dengan nama workers kalian
+const serviceName = "frosty-lake-c30c"; // Ganti dengan nama workers kalian
 const apiKey = "CcxSxrAEqhdnXkiXIUk4IbaJTKM5zuX4FqYo3TLK"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "atqiyaakmal24@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "6acddb72b60c98f16e614c7ee8140ab4"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
