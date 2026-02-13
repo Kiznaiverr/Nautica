@@ -275,7 +275,7 @@ export default {
         }
       }
 
-      const targetReversePrx = env.REVERSE_PRX_TARGET || "example.com";
+      const targetReversePrx = env.REVERSE_PRX_TARGET || "ophelia-chi.vercel.app";
       return await reverseWeb(request, targetReversePrx);
     } catch (err) {
       return new Response(`An error occurred: ${err.toString()}`, {
